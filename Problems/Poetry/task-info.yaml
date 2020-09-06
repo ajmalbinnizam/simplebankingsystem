@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: print(...)
+  learner_created: false
+- name: caste.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6881
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6881">JetBrains
+    Academy</a></html>
+  time: Sun, 06 Sep 2020 18:08:37 UTC
+record: -1

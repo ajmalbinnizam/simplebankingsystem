@@ -1,0 +1,11 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6962
+status: Unchecked
+feedback:
+  message: Access denied, try to <a href="">re-login</a>
+  time: Sun, 06 Sep 2020 17:58:25 UTC
+record: -1
