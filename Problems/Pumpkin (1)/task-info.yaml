@@ -1,0 +1,16 @@
+type: code
+custom_name: Pumpkin
+files:
+- name: task.py
+  visible: true
+  text: |-
+    class Dog:
+        def __init__(self, name):
+            self.name = name
+
+
+    # create pumpkin
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8092
+status: Solved
+record: -1

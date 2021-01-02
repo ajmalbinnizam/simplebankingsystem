@@ -1,0 +1,22 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    import math
+
+
+    class Hexagon:
+        def __init__(self, side_length):
+            self.side_length = side_length
+
+
+        # create get_area here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6937
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6937">JetBrains
+    Academy</a></html>
+  time: Sun, 04 Oct 2020 14:17:31 UTC
+record: -1

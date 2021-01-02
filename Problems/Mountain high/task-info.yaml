@@ -1,0 +1,19 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    class Mountain:
+        def __init__(self, name, height):
+            self.name = name
+            self.height = height
+
+        # create convert_height here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6961
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6961">JetBrains
+    Academy</a></html>
+  time: Sun, 04 Oct 2020 13:46:45 UTC
+record: -1

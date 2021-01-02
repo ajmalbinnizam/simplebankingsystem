@@ -1,0 +1,18 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    class Lightbulb:
+        def __init__(self):
+            self.state = "off"
+
+        # create method change_state here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6988
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6988">JetBrains
+    Academy</a></html>
+  time: Sun, 04 Oct 2020 16:24:17 UTC
+record: -1

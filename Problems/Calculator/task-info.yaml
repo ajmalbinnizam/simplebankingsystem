@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+- name: if.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5938
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/5938">JetBrains
+    Academy</a></html>
+  time: Tue, 08 Sep 2020 18:20:53 UTC
+record: -1
