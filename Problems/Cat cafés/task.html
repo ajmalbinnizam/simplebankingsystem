@@ -1,0 +1,29 @@
+<h2>Cat cafés</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Kitty wants to visit a cat café! Help her find the one with the largest number of cats.</p> 
+  <p><strong>Input format</strong></p> 
+  <p>Each string contains a café's name followed by a space and the number of cats in it, e.g. <code class="language-python">Paws 11</code>, <code class="language-python">Kittens 9</code>.</p> 
+  <p>The names would be one-word only. Read input lines until you get a string <code class="language-python">MEOW</code> (without any number).</p> 
+  <p><strong>Output format</strong></p> 
+  <p>The café with the maximum number of cats.</p> 
+  <p><button class="btn-sm btn-outline-secondary" onclick="getElementById('hint-539').style.display='inline'"> Hint </button> </p>
+  <div id="hint-539" style="display:none;">
+   Use the string's method 
+   <code class="language-python">split()</code> to separate the name from the number. For example:
+   <p></p> 
+   <pre><code class="language-python"># The variable "cafe" is a string 'Paws 11'
+cafe = string.split()
+# Now the variable "cafe" is a list ['Paws', '11']</code></pre> 
+   <p>Note that the resulting list contains only strings: you better convert the number to an integer.</p> 
+   <p>You can use the method <code class="language-python">append()</code> to add elements to the list. For example:</p> 
+   <pre><code class="language-python"># the variable "names" is a list [11, 10]
+names.append(12)
+# now the variable "names" is a list [11, 10, 12]</code></pre> 
+   <p></p>
+  </div>
+  <p></p>
+ </body>
+</html><br><b>Sample Input:</b><br><pre><code class="language-no-highlight">Paws 11<br>Kittens 9<br>MEOW</code></pre><br><b>Sample Output:</b><br><pre><code class="language-no-highlight">Paws</code></pre><br><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 15 seconds</font><br><br>
+<a href="https://hyperskill.org/learn/step/6302">Show topic summary</a>
