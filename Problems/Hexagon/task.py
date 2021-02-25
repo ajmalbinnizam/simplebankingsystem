@@ -9,3 +9,7 @@ class Hexagon:
     def get_area(self):
         s = (3 * math.sqrt(3) * self.side_length ** 2) / 2
         return round(s, 3)
+
+
+hex = Hexagon(1)
+print(hex.get_area())

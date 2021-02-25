@@ -13,6 +13,9 @@ files:
 
         # create get_area here
   learner_created: false
+- name: Method.py
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/6937
 status: Solved
 feedback:
