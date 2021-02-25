@@ -189,6 +189,12 @@ files:
     if __name__ == '__main__':
         BankingSystem('banking.banking').run_tests()
   learner_created: false
+- name: card.s3db
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/109/stages/592/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 25 Feb 2021 19:11:28 UTC
+record: 2
